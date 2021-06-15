@@ -1,0 +1,73 @@
+.card-section{
+    margin-top: 100px;
+}
+header{
+    background-color: rgb(218, 255, 237);
+}
+body{
+    font-family: 'Crimson Text', serif;
+}
+h1{
+    font-size: 38px;
+}
+p{
+    font-size: 22px;
+}
+h3{
+    font-size: 30px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+}
+.card-title{
+    font-size: 24px;
+    font-weight: 600px;
+}
+.highlight{
+    color: rgb(247, 187, 77);
+}
+button{
+    background-color: rgb(145, 190, 72);
+    border-radius: 5px;
+}
+.card-div{
+    width: 400px;
+    margin-left: 40px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 10px rgb(170, 166, 166);
+}
+.image-card{
+    border: none;
+    background-color: rgb(216, 212, 212);
+    height: 400px;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+#jacket3{
+    width: 70%;
+    height: 350px;
+    margin-left: 40px;
+}
+.finishing-part{
+    margin: 20px;
+    box-shadow: 20px 20px 10px rgb(170, 166, 166);
+    border-radius: 15px;
+}
+.finishing-part img{
+    margin: 20px;
+    border-radius: 15px;
+}
+.details{
+    text-align: center;
+}
+.shopping img{
+    margin: 30px 10px 20px 50px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.footer{
+    border:0px
+}
+
+
